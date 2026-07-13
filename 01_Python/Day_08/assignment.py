@@ -1,4 +1,5 @@
 # Python Day 8 Assignment
+
 # Q1. Create and Print a Dictionary
 print("\nQ1. Create and Print a Dictionary")
 student = {
