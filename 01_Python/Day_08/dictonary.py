@@ -1,5 +1,4 @@
 # Dictionary
-
 # A Dictionary stores data in Key : Value pairs.
 student = {
     "name": "Sahil",
