@@ -1,5 +1,5 @@
 # Function
-#Example
+# Example
 def greet():
     print("Welcome Sahil")
 greet()
