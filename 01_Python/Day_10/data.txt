@@ -1,0 +1,15 @@
+Hello Sahil
+
+Welcome to Python File Handling.
+
+This is Day 10 of my Python Journey.
+
+I am learning Python to become a Data Scientist.
+
+Python is easy to learn and powerful.
+
+I will practice coding every day.
+
+Consistency is the key to success.
+
+Thank you!
