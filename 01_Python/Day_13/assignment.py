@@ -1,4 +1,4 @@
-# Python Day 12 Assignment
+# Python Day 13 Assignment
 # Q1. Create a parent class Animal and a child class Dog. Call the parent method.
 class Animal:
     def sound(self):

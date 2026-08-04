@@ -1,4 +1,4 @@
-# Python Day 12 Assignment
+# Python Day 14 Assignment
 # Q1. Create a class with a public variable and access it.
 class Student:
     def __init__(self):
